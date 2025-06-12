@@ -42,7 +42,9 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 [![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/alitago)
 
 ---
+## 📈 Stats (porque todos amamos los gráficos)
 
+![GitHub Stats]
 https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical
 
 ---
