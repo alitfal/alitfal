@@ -43,6 +43,10 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 
 ---
 
+https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical
+
+---
+
 ## 🧙‍♂️ Frase aleatoria del día
 
 > “Programar es como hacer magia... pero con más errores de sintaxis.”  
