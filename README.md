@@ -42,9 +42,14 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 [![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/alitago)
 
 ---
-## 📈 Stats (porque todos amamos los gráficos)
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical&count_private=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitfal&layout=compact&theme=radical&title_color=ff0067&text_color=9f9f9f&bg_color=222222)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alitfal&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=222222&stroke=ff0067&ring=ff0067&fire=ff0067&currStreakLabel=ff0067)
 
 ---
 
