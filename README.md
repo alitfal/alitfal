@@ -36,12 +36,6 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 
 ---
 
-## 📈 Stats (porque todos amamos los gráficos)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alitago)  
