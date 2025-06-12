@@ -44,7 +44,7 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 ---
 ## 📈 Stats (porque todos amamos los gráficos)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical&count_private=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222)
 
 ---
 
