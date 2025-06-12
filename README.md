@@ -38,7 +38,7 @@ Aquí vas a encontrar ideas brillantes, errores épicos y commits a las 3 a.m.
 
 ## 📈 Stats (porque todos amamos los gráficos)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitfal&show_icons=true&theme=radical&cache_seconds=1800&token=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)
 
 ---
 
